@@ -15,7 +15,7 @@ The project involves the following steps:
    - A correlation analysis is performed to identify linear relationships between CO(GT) and other features.
 
 3. **Model Training and Evaluation**:
-   - **Logistic Regression**: 
+   - **Linear Regression**: 
      - Train R² Score: 0.8897930568286733
      - Test R² Score: 0.8928599242397163
    - **Random Forest**:
